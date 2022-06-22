@@ -14,15 +14,13 @@ The SV-7 might look simple at first glance, but a closer look will prove that it
 
 And at only 18mm thick, it can easily fit in most large pockets
 
-![Screenshot 2022-06-22 122923](https://user-images.githubusercontent.com/69592035/174995431-02e4a346-c695-4ffb-b5b2-2d080753e165.png)
-
 ## Powerful and flexible hardware ##
 
 The device's heart and brains are all contained within a tiny and highly dense pcb, fitting snugly within the device and effortlessly combining the high power/frequency power circuitry (boost converter,charger,high current transistor) with a highly flexible attiny chip, taking away the burden of having to stuff multiple modules inside of the elegant case, and allowing you to simply connect all 3 components and modify the resistor's sensitivity/safety features to your liking.
 
 And with a 1a tp4056 charging IC, you can quickly charge it's 18650 cell with ease
 
-
+![Screenshot 2022-06-22 122923](https://user-images.githubusercontent.com/69592035/174995431-02e4a346-c695-4ffb-b5b2-2d080753e165.png)
 
 ## Simple yet modular ##
 

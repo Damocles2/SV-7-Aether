@@ -9,7 +9,7 @@ Although it might look unasuming, it's tiny PCB is capable of providing up to 15
 
 ## Timeless design ##
 
-The SV-7 might look simple at first glance, but a closer look will prove that it's anything but. The design's attention to detail is showcased in the contrast between the smooth, beveled white, and the sleek metallic lower
+The SV-7 might look simple at first glance, but a closer look will reveal that it's anything but. The design's attention to detail is showcased in the contrast between the smooth, beveled white, and the sleek metallic lower
 ![mini](https://user-images.githubusercontent.com/69592035/174982651-ec633f4f-7af5-44c7-afe8-8718cab3fd67.png)
 
 And at only 18mm thick, it can easily fit in most large pockets

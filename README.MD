@@ -36,7 +36,7 @@ It also sports a carefully designed heatsink, designed to wick away the massive 
 
 **Metal chassis**: ~75$
 
-**Top cover**: around 10 if you're having it printed online, otherwise ~1$
+**Top cover**: around 10 if you're having it printed online, otherwise <1$
 
 **Populated PCB**: ~15$
 

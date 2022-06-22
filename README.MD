@@ -34,6 +34,21 @@ It also sports a carefully designed heatsink, designed to wick away the massive 
 
 ## Affordable ##
 
+**Metal chassis**: ~75$
+
+**Top cover**: around 10 if you're having it printed online, otherwise ~1$
+
+**Populated PCB**: ~15$
+
+**18650 battery** ~1.5$
+
+**Collimating lens (optional):** ~1.99$ on aliexpress
+
+**Trigger**: Simply follow the following tutorial https://www.instructables.com/DIY-Force-Sensitive-Resistor-FSR/
+
+The device itself should only cost about 100 dollars, however your price heavily depends on the diode you are using. I reccomend the SHARP GH04C05Y9G, which can be had on aliexpress for only 38.99$
+
+This puts the total at a surprisingly low 140$
 
 ## A wide range of applications ##
 

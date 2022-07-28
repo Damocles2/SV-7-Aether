@@ -53,8 +53,8 @@ This puts the total at a surprisingly low 140$
 
 As this is essentialy just a handheld laser diode with a comfortable grip, it can be used in various fields and for countless purposes
 
-- Military use
+- Military use 
+- Law enforcement use (for non lethal crowd control without a collimating lens)
 - Self defence
 - Engineering
-- Welding
-- Mining
+- Mining (as a precision instrument)

@@ -30,6 +30,8 @@ The metal base can support a wide range of laser and lenses depending on your ne
 
 It also sports a carefully designed heatsink, designed to wick away the massive amounts of excess heat a powerful diode can produce
 
+**Alternatively, if the high cost of metal 3d printing isn't acceptable, both part can be produced with 3d printed polycarbonate, filled with mineral oil, and sealed.**
+
 
 ## Affordable ##
 

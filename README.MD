@@ -30,7 +30,7 @@ The metal base can support a wide range of laser and lenses depending on your ne
 
 It also sports a carefully designed heatsink, designed to wick away the massive amounts of excess heat a powerful diode can produce
 
-**Alternatively, if the high cost of metal 3d printing isn't acceptable, both part can be produced with 3d printed polycarbonate, filled with mineral oil, and sealed. The diode mount can be hot glued to the top plastic to form a seal as not to have the oil affect the beam.**
+**⚠️ Alternatively, if the high cost of metal 3d printing isn't acceptable, both part can be produced with 3d printed polycarbonate, filled with mineral oil, and sealed. The diode mount can be hot glued to the top plastic to form a seal as not to have the oil affect the beam. ⚠️**
 
 
 ## Affordable ##
@@ -45,7 +45,7 @@ It also sports a carefully designed heatsink, designed to wick away the massive 
 
 **Collimating lens (optional):** ~1.99$ on aliexpress
 
-**Trigger**: Simply follow the following tutorial https://www.instructables.com/DIY-Force-Sensitive-Resistor-FSR/
+**Trigger**: Any thin film pressure sensor would work if you set the right resistance. The sv-7 is designed for a long strip type unit (like the zd10-100), but a smaller circular one (eg: RP-C7.6-ST) is a far safer and more practical solution, if not quite as cool.
 
 The device itself should only cost about 125 dollars, however your price heavily depends on the diode you are using. I reccomend the SHARP GH04C05Y9G, which can be had on aliexpress for only 38.99$
 

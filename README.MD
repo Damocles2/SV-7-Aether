@@ -18,7 +18,7 @@ And at only 18mm thick, it can easily fit in most large pockets
 
 The device's heart and brains are all contained within a tiny and highly dense pcb, fitting snugly within the device and effortlessly combining the high power/frequency power circuitry (boost converter,charger,high current transistor) with a highly flexible attiny chip, taking away the burden of having to stuff multiple modules inside of the elegant case, and allowing you to simply connect all 3 components and modify the resistor's sensitivity/safety features to your liking.
 
-And with a 1a tp4056 charging IC, you can quickly charge it's 18650 cell with ease
+And with a 1a tp4056 charging IC, you can quickly charge it's 18650 or AA(A) cell with ease
 
 ![Screenshot 2022-06-22 122923](https://user-images.githubusercontent.com/69592035/174995431-02e4a346-c695-4ffb-b5b2-2d080753e165.png)
 
@@ -47,13 +47,15 @@ It also sports a carefully designed heatsink, designed to wick away the massive 
 
 **Trigger**: Any thin film pressure sensor would work if you set the right resistance. The sv-7 is designed for a long strip type unit (like the zd10-100), but a smaller circular one (eg: RP-C7.6-ST) is a far safer and more practical solution, if not quite as cool.
 
+The device can be a little too front heavy for some users, so tungsten putty, available in most online marketplaces (eg: aliexpress) and fishing stores, can be added to the grip until an adequate balance is achieved.
+
 The device itself should only cost about 125 dollars, however your price heavily depends on the diode you are using. I reccomend the SHARP GH04C05Y9G, which can be had on aliexpress for only 38.99$
 
-This puts the total at a surprisingly low 140$
+This puts the total at a surprisingly low 140$ (with a metal chassis, see above for advice on producing plastic lower)
 
 ## A wide range of applications ##
 
-As this is essentialy just a handheld laser diode with a comfortable grip, it can be used in various fields and for countless purposes
+As this is essentialy just a handheld laser diode with a comfortable grip, it can be used in various fields to perform a countless variety of tasks.
 
 - Military use 
 - Law enforcement use (for non lethal crowd control without a collimating lens)
